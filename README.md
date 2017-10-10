@@ -5,7 +5,7 @@ This is the developed solution for the "Web Developer Programming Test" given by
 
 A few things to note.
 
-Had some issues with creating this environment. I initially wanted to use ASP.NET Core withing Visual Studio 2017 (Community Edition),
+Had some issues with creating this environment. I initially wanted to use ASP.NET Core within Visual Studio 2017 (Community Edition),
 but I repeatedly ran into issues with the initial project - kept getting unexpected errors when attempting to download NuGet packages
 within Visual Studio. It may be related to the fact that while I have the developer version of SQL Server 2017 installed, I have been
 unable to get the SQL Server Management Studio (v17.2) to correctly function.
