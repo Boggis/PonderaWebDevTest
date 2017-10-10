@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonderaWebDevTest", "PonderaWebDevTest\PonderaWebDevTest.csproj", "{02F84258-8553-4183-906A-DA374A5C90DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonderaWebDevTest.Tests", "PonderaWebDevTest.Tests\PonderaWebDevTest.Tests.csproj", "{67C62F51-1E85-48E3-9C46-8936D2777B17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F84258-8553-4183-906A-DA374A5C90DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F84258-8553-4183-906A-DA374A5C90DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F84258-8553-4183-906A-DA374A5C90DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F84258-8553-4183-906A-DA374A5C90DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C62F51-1E85-48E3-9C46-8936D2777B17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C62F51-1E85-48E3-9C46-8936D2777B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C62F51-1E85-48E3-9C46-8936D2777B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C62F51-1E85-48E3-9C46-8936D2777B17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5485D0BF-2B77-4A5B-BE0E-6B7153750B3F}
+	EndGlobalSection
+EndGlobal
